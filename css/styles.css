@@ -4,7 +4,7 @@
 }
 
 @font-face {
-  src: url(./kaushanscript/KaushanScript-Regular.otf);
+  src: url(../font/KaushanScript-Regular.otf);
   font-family: 'KaushanScript-Regular';
 }
 
@@ -159,27 +159,27 @@ ICON */
 }
 
 .features-list-item:nth-child(1)::before {
-  background-image: url('./icon/ALARM.png');
+  background-image: url('../icon/ALARM.png');
 }
 
 .features-list-item:nth-child(2)::before {
-  background-image: url('./icon/LINE\ GRAPH.png');
+  background-image: url('../icon/LINE\ GRAPH.png');
 }
 
 .features-list-item:nth-child(3)::before {
-  background-image: url('./icon/COMPUTER\ _\ OK.png');
+  background-image: url('../icon/COMPUTER\ _\ OK.png');
 }
 
 .features-list-item:nth-child(4)::before {
-  background-image: url('./icon/BOOK\ 2.png');
+  background-image: url('../icon/BOOK\ 2.png');
 }
 
 .features-list-item:nth-child(5)::before {
-  background-image: url('./icon/HOME.png');
+  background-image: url('../icon/HOME.png');
 }
 
 .features-list-item:nth-child(6)::before {
-  background-image: url('./icon/IMAGE.png');
+  background-image: url('../icon/IMAGE.png');
 }
 
 .features-list {
@@ -437,19 +437,19 @@ ICON */
 }
 
 .facebook::after {
-  background-image: url('./social-media-icon/facebook-icon.png');
+  background-image: url('../social-media-icon/facebook-icon.png');
 }
 
 .pinterest::after {
-  background-image: url('./social-media-icon/pinterest-icon.png');
+  background-image: url('../social-media-icon/instagram-icon.png');
 }
 
 .twitter::after {
-  background-image: url('./social-media-icon/twitter-icon.png');
+  background-image: url('../social-media-icon/twitter-icon.png');
 }
 
 .instagramm::after {
-  background-image: url('./social-media-icon/instagram-icon.png');
+  background-image: url('../social-media-icon/instagram-icon.png');
 }
 
 .social-media-item {
